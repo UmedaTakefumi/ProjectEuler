@@ -20,8 +20,8 @@
 
 | Problem No. | Problem Title | Programming Language   |
 | :---------- | :------------- |:------------- |
-| [problem1](problem/001.md) | 3と5の倍数 | [perl](answer/perl/001.pl) / [go](answer/go/001.go) / [python](answer/python/001.py) / [ruby](problem/ruby/001.rb) / [c](answer/c/001.c) / [php](answer/php/001.php) / [objc](answer/objc/001.m) / [java](answer/java/001.java)|
-| [problem2](problem/002.md) | 偶数のフィボナッチ数 | [perl](answer/perl/002.pl) / [go](answer/go/002.go) |
+| [problem1](problem/001.md) | 3と5の倍数 | [perl](answer/perl/001.pl) / [go](answer/go/001.go) / [python](answer/python/001.py) |
+| [problem2](problem/002.md) | 偶数のフィボナッチ数 | [perl](answer/perl/002.pl) / [go](answer/go/002.go) | [python](answer/python/001.py) |
 | [problem3](problem/003.md) | 最大の素因数 |
 | [problem4](problem/004.md) | 最大の回文積 |
 | [problem5](problem/005.md) | 最小の倍数 |
