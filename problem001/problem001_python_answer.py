@@ -2,16 +2,17 @@
 
 def problem001():
 
-    a = 0
+    a = int(0)
     b = []
     
-    for tmp in range(1,1000):
-      if tmp % 3 == 0 or tmp % 5 ==0 :
+    for tmp in range(int(1),int(1000)):
+      if tmp % int(3) == int(0) or tmp % int(5) == int(0) :
         a += tmp
     
-    return b.append(a)
+    b.append(a)
+    return b
 
 if __name__ == "__main__":
 
-    problem001()
+    print(problem001())
 
