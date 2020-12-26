@@ -18,4 +18,10 @@ RUN apt-get -y install perl
 RUN apt-get -y install python
 RUN apt-get -y install golang
 
-WORKDIR /root
+WORKDIR /root/ProjectEuler
+
+## Problem001
+COPY problem001/ /root/ProjectEuler/problem001/
+
+## Problem002
+COPY problem002/ /root/ProjectEuler/problem002/
