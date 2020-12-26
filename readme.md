@@ -18,107 +18,107 @@
 
 ## 問題と回答
 
-| Problem No. | Problem Title | Programming Language   |
+| Problem No. | Problem Title | source |
 | :---------- | :------------- |:------------- |
-| [problem1](problem/001.md) | 3と5の倍数 | [perl](answer/perl/001.pl) / [go](answer/go/001.go) / [python](answer/python/001.py) |
-| [problem2](problem/002.md) | 偶数のフィボナッチ数 | [perl](answer/perl/002.pl) / [go](answer/go/002.go) | [python](answer/python/001.py) |
-| [problem3](problem/003.md) | 最大の素因数 |
-| [problem4](problem/004.md) | 最大の回文積 |
-| [problem5](problem/005.md) | 最小の倍数 |
-| [problem6](problem/006.md) | 二乗和の差 |
-| [problem7](problem/007.md) | 10001番目の素数 |
-| [problem8](problem/008.md) | 数字列中の最大の積 |
-| [problem9](problem/009.md) | 特別なピタゴラス数 |
-| [problem10](problem/010md) | 素数の和 |
-| [problem11](problem/011md) | 格子内の最大の積 |
-| [problem12](problem/012md) | 高度整除三角数 |
-| [problem13](problem/013md) | 大数の和 |
-| [problem14](problem/014md) | 最長のコラッツ数列 |
-| [problem15](problem/015md) | 格子経路 |
-| [problem16](problem/016md) | べき乗の数字和 |
-| [problem17](problem/017md) | 数字の文字数 |
-| [problem18](problem/018md) | 最大経路の和 その1 |
-| [problem19](problem/019md) | 日曜日の数え上げ |
-| [problem20](problem/020md) | 階乗の数字和 |
-| [problem21](problem/021md) | 友愛数 |
-| [problem22](problem/022md) | 名前のスコア |
-| [problem23](problem/023md) | 非過剰数和 |
-| [problem24](problem/024md) | 辞書式順列 |
-| [problem25](problem/025md) | 1000桁のフィボナッチ数 |
-| [problem26](problem/026md) |  |
-| [problem27](problem/027md) |   |
-| [problem28](problem/028md) |   |
-| [problem29](problem/029md) |   |
-| [problem30](problem/030md) |   |
-| [problem31](problem/031md) |   |
-| [problem32](problem/032md) |   |
-| [problem33](problem/033md) |   |
-| [problem34](problem/034md) |   |
-| [problem35](problem/035md) |   |
-| [problem36](problem/036md) |   |
-| [problem37](problem/037md) |   |
-| [problem38](problem/038md) |   |
-| [problem39](problem/039md) |   |
-| [problem40](problem/040md) |   |
-| [problem41](problem/041md) |   |
-| [problem42](problem/042md) |   |
-| [problem43](problem/043md) |   |
-| [problem44](problem/044md) |   |
-| [problem45](problem/045md) |   |
-| [problem46](problem/046md) |   |
-| [problem47](problem/047md) |   |
-| [problem48](problem/048md) |   |
-| [problem49](problem/049md) |   |
-| [problem50](problem/050md) |   |
-| [problem51](problem/051md) |   |
-| [problem52](problem/052md) |   |
-| [problem53](problem/053md) |   |
-| [problem54](problem/054md) |   |
-| [problem55](problem/055md) |   |
-| [problem56](problem/056md) |   |
-| [problem57](problem/057md) |   |
-| [problem58](problem/058md) |   |
-| [problem59](problem/059md) |   |
-| [problem60](problem/060md) |   |
-| [problem61](problem/061md) |   |
-| [problem62](problem/062md) |   |
-| [problem63](problem/063md) |   |
-| [problem64](problem/064md) |   |
-| [problem65](problem/065md) |   |
-| [problem66](problem/066md) |   |
-| [problem67](problem/067md) |   |
-| [problem68](problem/068md) |   |
-| [problem69](problem/069md) |   |
-| [problem70](problem/070md) |   |
-| [problem71](problem/071md) |   |
-| [problem72](problem/072md) |   |
-| [problem73](problem/073md) |   |
-| [problem74](problem/074md) |   |
-| [problem75](problem/075md) |   |
-| [problem76](problem/076md) |   |
-| [problem77](problem/077md) |   |
-| [problem78](problem/078md) |   |
-| [problem79](problem/079md) |   |
-| [problem80](problem/080md) |   |
-| [problem81](problem/081md) |   |
-| [problem82](problem/082md) |   |
-| [problem83](problem/083md) |   |
-| [problem84](problem/084md) |   |
-| [problem85](problem/085md) |   |
-| [problem86](problem/086md) |   |
-| [problem87](problem/087md) |   |
-| [problem88](problem/088md) |   |
-| [problem89](problem/089md) |   |
-| [problem90](problem/090md) |   |
-| [problem91](problem/091md) |   |
-| [problem92](problem/092md) |   |
-| [problem93](problem/093md) |   |
-| [problem94](problem/094md) |   |
-| [problem95](problem/095md) |   |
-| [problem96](problem/096md) |   |
-| [problem97](problem/097md) |   |
-| [problem98](problem/098md) |   |
-| [problem99](problem/099md) |   |
+| [problem1](problem001/readme.md) | 3と5の倍数 | [source](problem001/)  |
+| [problem2](problem002/readme.md) | 偶数のフィボナッチ数 | [source](problem002/)  |
+| [problem3](problem003/readme.md) | 最大の素因数 | [source](problem003/)  |
+| [problem4](problem004/readme.md) | 最大の回文積 |
+| [problem5](problem005/readme.md) | 最小の倍数 |
+| [problem6](problem006/readme.md) | 二乗和の差 |
+| [problem7](problem007/readme.md) | 10001番目の素数 |
+| [problem8](problem008/readme.md) | 数字列中の最大の積 |
+| [problem9](problem009/readme.md) | 特別なピタゴラス数 |
+| [problem10](problem010/readme.md) | 素数の和 |
+| [problem11](problem011/readme.md) | 格子内の最大の積 |
+| [problem12](problem012/readme.md) | 高度整除三角数 |
+| [problem13](problem013/readme.md) | 大数の和 |
+| [problem14](problem014/readme.md) | 最長のコラッツ数列 |
+| [problem15](problem015/readme.md) | 格子経路 |
+| [problem16](problem016/readme.md) | べき乗の数字和 |
+| [problem17](problem017/readme.md) | 数字の文字数 |
+| [problem18](problem018/readme.md) | 最大経路の和 その1 |
+| [problem19](problem019/readme.md) | 日曜日の数え上げ |
+| [problem20](problem020/readme.md) | 階乗の数字和 |
+| [problem21](problem021/readme.md) | 友愛数 |
+| [problem22](problem022/readme.md) | 名前のスコア |
+| [problem23](problem023/readme.md) | 非過剰数和 |
+| [problem24](problem024/readme.md) | 辞書式順列 |
+| [problem25](problem025/readme.md) | 1000桁のフィボナッチ数 |
+| [problem26](problem026/readme.md) |  |
+| [problem27](problem027/readme.md) |   |
+| [problem28](problem028/readme.md) |   |
+| [problem29](problem029/readme.md) |   |
+| [problem30](problem030/readme.md) |   |
+| [problem31](problem031/readme.md) |   |
+| [problem32](problem032/readme.md) |   |
+| [problem33](problem033/readme.md) |   |
+| [problem34](problem034/readme.md) |   |
+| [problem35](problem035/readme.md) |   |
+| [problem36](problem036/readme.md) |   |
+| [problem37](problem037/readme.md) |   |
+| [problem38](problem038/readme.md) |   |
+| [problem39](problem039/readme.md) |   |
+| [problem40](problem040/readme.md) |   |
+| [problem41](problem041/readme.md) |   |
+| [problem42](problem042/readme.md) |   |
+| [problem43](problem043/readme.md) |   |
+| [problem44](problem044/readme.md) |   |
+| [problem45](problem045/readme.md) |   |
+| [problem46](problem046/readme.md) |   |
+| [problem47](problem047/readme.md) |   |
+| [problem48](problem048/readme.md) |   |
+| [problem49](problem049/readme.md) |   |
+| [problem50](problem050/readme.md) |   |
+| [problem51](problem051/readme.md) |   |
+| [problem52](problem052/readme.md) |   |
+| [problem53](problem053/readme.md) |   |
+| [problem54](problem054/readme.md) |   |
+| [problem55](problem055/readme.md) |   |
+| [problem56](problem056/readme.md) |   |
+| [problem57](problem057/readme.md) |   |
+| [problem58](problem058/readme.md) |   |
+| [problem59](problem059/readme.md) |   |
+| [problem60](problem060/readme.md) |   |
+| [problem61](problem061/readme.md) |   |
+| [problem62](problem062/readme.md) |   |
+| [problem63](problem063/readme.md) |   |
+| [problem64](problem064/readme.md) |   |
+| [problem65](problem065/readme.md) |   |
+| [problem66](problem066/readme.md) |   |
+| [problem67](problem067/readme.md) |   |
+| [problem68](problem068/readme.md) |   |
+| [problem69](problem069/readme.md) |   |
+| [problem70](problem070/readme.md) |   |
+| [problem71](problem071/readme.md) |   |
+| [problem72](problem072/readme.md) |   |
+| [problem73](problem073/readme.md) |   |
+| [problem74](problem074/readme.md) |   |
+| [problem75](problem075/readme.md) |   |
+| [problem76](problem076/readme.md) |   |
+| [problem77](problem077/readme.md) |   |
+| [problem78](problem078/readme.md) |   |
+| [problem79](problem079/readme.md) |   |
+| [problem80](problem080/readme.md) |   |
+| [problem81](problem081/readme.md) |   |
+| [problem82](problem082/readme.md) |   |
+| [problem83](problem083/readme.md) |   |
+| [problem84](problem084/readme.md) |   |
+| [problem85](problem085/readme.md) |   |
+| [problem86](problem086/readme.md) |   |
+| [problem87](problem087/readme.md) |   |
+| [problem88](problem088/readme.md) |   |
+| [problem89](problem089/readme.md) |   |
+| [problem90](problem090/readme.md) |   |
+| [problem91](problem091/readme.md) |   |
+| [problem92](problem092/readme.md) |   |
+| [problem93](problem093/readme.md) |   |
+| [problem94](problem094/readme.md) |   |
+| [problem95](problem095/readme.md) |   |
+| [problem96](problem096/readme.md) |   |
+| [problem97](problem097/readme.md) |   |
+| [problem98](problem098/readme.md) |   |
+| [problem99](problem099/readme.md) |   |
 | [problem100](problem/10.md) |   |
 | [problem101](problem/10.md) |   |
 | [problem102](problem/10.md) |   |
